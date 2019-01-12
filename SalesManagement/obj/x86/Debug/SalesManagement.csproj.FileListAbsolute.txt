@@ -1,0 +1,176 @@
+D:\MyJob\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.exe
+D:\MyJob\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.pdb
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.UCDoanhThuTheoNgay.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmDoiMatKhau.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmLogIn.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmThemMoiTaiKhoan.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.UCQuanLyNguoiDung.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.frmHoaDonBanHang.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.UCBanHang.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.FrmXuatTra.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCKiemKeHangHoa.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.UCPhieuNhapHang.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCXuatTra.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmInMaVach.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachDVT.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachNhomKhachHang.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmKhachHang.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmNhaCungCap.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemDVT.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemNhanVien.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThongTinHangHoa.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachKhachHang.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachMatHang.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhanVien.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThieLapBanDau.UCDanhSachNhapHang.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhomKhach.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCInMaVach.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCNhaCungCap.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FrmHome.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.Properties.Resources.resources
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.csproj.GenerateResource.Cache
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.exe
+D:\MyJob\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.pdb
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.exe
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.pdb
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.exe
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.pdb
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.UCDoanhThuTheoNgay.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmDoiMatKhau.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmLogIn.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmThemMoiTaiKhoan.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.UCQuanLyNguoiDung.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.frmHoaDonBanHang.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.UCBanHang.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.FrmXuatTra.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCKiemKeHangHoa.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.UCPhieuNhapHang.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCXuatTra.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmInMaVach.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachDVT.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachNhomKhachHang.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmKhachHang.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmNhaCungCap.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemDVT.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemNhanVien.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThongTinHangHoa.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachKhachHang.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachMatHang.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhanVien.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThieLapBanDau.UCDanhSachNhapHang.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhomKhach.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCInMaVach.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCNhaCungCap.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FrmHome.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.Properties.Resources.resources
+D:\Phần mềm bán hàng\SalesManagement.Verson1\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.csproj.GenerateResource.Cache
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.exe
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.pdb
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.exe
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.pdb
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.UCDoanhThuTheoNgay.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmDoiMatKhau.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmLogIn.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmThemMoiTaiKhoan.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.UCQuanLyNguoiDung.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.frmHoaDonBanHang.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.UCBanHang.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.FrmXuatTra.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCKiemKeHangHoa.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.UCPhieuNhapHang.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCXuatTra.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmInMaVach.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachDVT.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachNhomKhachHang.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmKhachHang.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmNhaCungCap.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemDVT.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemNhanVien.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThongTinHangHoa.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachKhachHang.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachMatHang.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhanVien.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThieLapBanDau.UCDanhSachNhapHang.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhomKhach.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCInMaVach.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCNhaCungCap.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FrmHome.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.Properties.Resources.resources
+D:\Phần mềm bán hàng\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.exe
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.pdb
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.UCDoanhThuTheoNgay.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmDoiMatKhau.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmLogIn.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmThemMoiTaiKhoan.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.UCQuanLyNguoiDung.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.frmHoaDonBanHang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.UCBanHang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.FrmXuatTra.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCKiemKeHangHoa.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.UCPhieuNhapHang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCXuatTra.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmInMaVach.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachDVT.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachNhomKhachHang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmKhachHang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmNhaCungCap.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemDVT.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemNhanVien.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThongTinHangHoa.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachMatHang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhanVien.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThieLapBanDau.UCDanhSachNhapHang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhomKhach.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCInMaVach.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCNhaCungCap.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FrmHome.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.exe
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.pdb
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.UCDoanhThuTheoThang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.FrmDoanhThuTheoThang.resources
+C:\Users\Administrator\Desktop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.Form1.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.exe
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.pdb
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.exe
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\bin\x86\Debug\SalesManagement.pdb
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.Form1.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.FrmDoanhThuTheoThang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.UCDoanhThuTheoNgay.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.BaoCaoThongKe.UCDoanhThuTheoThang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmDoiMatKhau.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmLogIn.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.FrmThemMoiTaiKhoan.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.HeThong.UCQuanLyNguoiDung.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.frmHoaDonBanHang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.BanHang.UCBanHang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.FrmXuatTra.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCKiemKeHangHoa.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.UCPhieuNhapHang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.QuanLyBanHang.NhapHang.UCXuatTra.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmInMaVach.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachDVT.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmDanhSachNhomKhachHang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmKhachHang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmNhaCungCap.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemDVT.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThemNhanVien.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.FrmThongTinHangHoa.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachKhachHang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachMatHang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhanVien.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThieLapBanDau.UCDanhSachNhapHang.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCDanhSachNhomKhach.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCInMaVach.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FORM.ThietLapBanDau.UCNhaCungCap.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.FrmHome.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tong Hop\SalesForTrieuGia\SalesManagement\SalesManagement\obj\x86\Debug\SalesManagement.csproj.GenerateResource.Cache
